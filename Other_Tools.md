@@ -1,5 +1,5 @@
 # Other Relevant Tools
-Below is a list of other tools that might be useful for scraping Twitter.
+Below is a list of other tools that might be useful as you scrape, parse, and store Twitter data.
 
 ## SQLite - https://www.sqlite.org/
 SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world.
