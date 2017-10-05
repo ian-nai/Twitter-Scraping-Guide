@@ -8,4 +8,4 @@ A collection of sample scripts for use in harvesting Twitter data.
 * Download all of a user's tweets into a .csv: https://gist.github.com/yanofsky/5436496
 
 ## Using Twython
-* 
+* A collection of sample scripts for Twython: https://github.com/ryanmcgrath/twython/tree/master/examples
