@@ -18,4 +18,4 @@ A collection of tutorials and further reading on scraping and parsing Twitter da
 * https://developer.twitter.com/en/docs
 
 ## Temple University Guide to Twitter Mining
-*http://guides.temple.edu/mining-twitter/scraping
+* http://guides.temple.edu/mining-twitter/scraping
